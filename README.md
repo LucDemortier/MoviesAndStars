@@ -1,5 +1,5 @@
 # MoviesAndStars
-Project Luther for Spring 2015 Metis Data Science Bootcamp
+Project Luther for Spring 2015 Metis Data Science Bootcamp.
 See blog at [lucdemortier.github.io](http://lucdemortier.github.io/) for a description of the results.
 
 iPython notebooks used to generate the results and plots for the MoviesAndStars project:
