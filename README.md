@@ -1,6 +1,10 @@
 # MoviesAndStars
-Project Luther for Spring 2015 Metis Data Science Bootcamp.
-See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/portfolio/2_luther.html) for a description of the results.
+
+For this project I investigated whether the star value of a movie's cast can be used to predict the movie's revenue.
+
+This was my "Project Luther" in the Spring 2015 Metis Data Science Bootcamp.
+
+See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/projects/2_luther.html) for a description of the results.
 
 iPython notebooks used to generate the results and plots for the MoviesAndStars project:
 
